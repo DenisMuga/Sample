@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css?family=Copse|Delius+Swash+Caps|UnifrakturMaguntia|Unkempt&display=swap');
+
+html, body{
+  max-width: 100%;
+  overflow-x: hidden;
+}
+/* .logo h2{
+  /* position: absolute; */
+/* } */ 
+
+
+/* header{  */
+  /* background-image: url(./images/burgerpalace\ bg.jpeg);    */
+  /* height: 200vh; */
+  /* width: 500vh;  */
+   /* background-repeat: no-repeat;  */
+  /* background-size: cover; */
+ 
+  /* /* height: 250vh; 
+
+ 
+  border: 15px;
+  padding: 50px;
+  /* margin: 20px;
+
+} 
+
+header h2 {
+  font-style: italic;
+ 
+}
+/* nav li {
+  float: right;
+  display: inline;
+}
+
+nav li a { */
+  /* display: block; */
+  /* padding: 8px; */
+  /* background-color: #dddddd; */
+/* } */
+/* ul {
+    direction: rtl; 
+     display: inline;
+    text-align: right; 
+    margin: 0;
+    padding: 0;
+    align-content: center;
+  } */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  /* overflow: hidden; */
+  /* background-color: #333; */
+
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: black;
+  /* text-align: end; */
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+header button {
+  border-radius: 50px 20px;
+  padding: 10px;
+  background-color: rgb(255, 136, 0);
+  color: white;
+  border: 2px solid rgb(255, 136, 0);
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+/* Change the link color to #111 (black) on hover */
+/* li a:hover {
+  background-color: #111;
+} */
+
+  
+ 
+  
+  
+  /* .column {
+    float: left;
+    width: 33%;
+    padding: 0 10px;
+  }
+  
+  
+  .row {margin: 0 -5px;}
+  
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); 
+    padding: 16px;
+    text-align: center;
+    background-color: #f1f1f1;
+  }
+  
+ 
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  } */
